@@ -1,0 +1,1 @@
+let yourArray = ['happy', 12345, true, false, undefined]; // Change this line
